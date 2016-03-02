@@ -2,6 +2,8 @@
 #define DEBUG true
 
 #include "functions.h"
+#include <cstdio>
+#include <cstdlib>
 //using namespace std;
 
 int main(int argc, char *argv[])

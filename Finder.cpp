@@ -3,6 +3,7 @@
 #pragma hdrstop
 #include "Finder.h"
 #include <cstdio>
+#include <cstdlib>
 
 Finder::Finder(int* pattern,int lenpattern ){
 this->stato=0;
