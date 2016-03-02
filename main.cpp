@@ -1,5 +1,5 @@
-#define VERSION "0.2"
-#define DEBUG true
+#define VERSION "0.3"
+#define DEBUG false
 
 #include "functions.h"
 #include <cstdio>
