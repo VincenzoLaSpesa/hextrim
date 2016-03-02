@@ -1,6 +1,6 @@
 #include "functions.h"
 #include "Finder.h"
-
+#include <cstdio>
 
 inline int hexchar(char carattere){
     if(carattere=='0')return 0;
